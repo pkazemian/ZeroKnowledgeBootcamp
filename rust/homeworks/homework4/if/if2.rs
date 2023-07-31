@@ -11,7 +11,7 @@ pub fn fizz_if_foo(fizzish: &str) -> &str {
         "foo"
     } 
     else {
-        1
+        "1"
     }
 }
 
